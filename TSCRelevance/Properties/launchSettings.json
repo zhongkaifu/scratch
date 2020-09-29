@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TSCRelevance": {
+      "commandName": "Project",
+      "commandLineArgs": "query .",
+      "workingDirectory": "C:\\Work\\TSCRelevance\\bin\\Debug\\netcoreapp3.1"
+    }
+  }
+}

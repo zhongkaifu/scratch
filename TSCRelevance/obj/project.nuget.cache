@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zVwOYzQz5RfU1D6O6YNptpJxxtLWtt9kx5JX8XZIgW1otkm60w9VKZ4wR1SO7woCt+7fa6R/fc46sTwtRnjcwg==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\TSCv2\\IRMethod\\TSCRelevance\\TSCRelevance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhongfu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
